@@ -1,0 +1,14 @@
+body {
+    background-color: #fffacd;
+}
+
+legend {
+    font-size: 30px;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
