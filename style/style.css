@@ -12,3 +12,9 @@ legend {
     justify-content: center;
     
 }
+
+
+.items {
+    border: 1px solid black;
+    background-color: black;
+}
